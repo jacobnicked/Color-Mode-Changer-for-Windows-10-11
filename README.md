@@ -1,2 +1,2 @@
-# Dark-Mode-for-not-activated-Windows-10-11
-Windows 10/11 not being activated does not let a user do any personalization, but it is possible to enable dark mode when Windows is not activated
+**Dark Mode for Windows 10/11 without activation**
+<p>Windows 10/11 does not allow to personalize it when it is not activated, however, enabling dark mode is possible, despite the lack of activation.</p>
